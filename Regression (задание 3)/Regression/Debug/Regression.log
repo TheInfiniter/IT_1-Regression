@@ -1,0 +1,52 @@
+﻿  Regression.cpp
+  RegressionDlg.cpp
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(4): warning C4603: _USE_MATH_DEFINES: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(5): note: использование предварительно скомпилированного заголовка
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(252): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(253): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(259): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(263): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(265): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(271): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(272): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(278): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(282): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(284): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(289): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(290): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(292): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(293): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(296): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(297): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(299): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(300): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(380): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(519): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(520): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(526): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(530): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(532): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(538): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(539): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(545): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(549): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(551): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(556): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(557): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(559): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(560): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(563): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(564): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(566): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(567): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(570): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(571): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(575): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(578): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(581): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(584): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(588): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\дима\documents\программы\информационные технологии\regression\regression\regressiondlg.cpp(591): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Regression.vcxproj -> C:\Users\Дима\Documents\Программы\Информационные технологии\Regression\Debug\Regression.exe
